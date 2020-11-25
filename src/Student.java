@@ -7,5 +7,5 @@ public class Student {
     private String name;
     private int age;
     private char sex;
-
+    private String address;
 }
